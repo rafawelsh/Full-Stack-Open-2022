@@ -1,0 +1,1 @@
+Data within App.js was switch into 1 object called course with two items of name(title) and parts from 1.4. When passing the props I just passed the appropriate section with dot notation, (e.g. couse.name || course.parts)
